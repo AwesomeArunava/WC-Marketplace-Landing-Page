@@ -1,0 +1,26 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 771" width="1600" height="771">
+	<title>home_page</title>
+	<defs>
+		<linearGradient id="g1" x1="476.5" y1="0" x2="1123.5" y2="771" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#3f1473"/>
+			<stop offset=".51" stop-color="#af3b74"/>
+			<stop offset="1" stop-color="#db4b54"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0-50h1600v561c0 0-152-199-412-199-324.67 0-318.23 360.64-597 374-133.3 6.39-284.04-35-389-35-122.95 0-202 70-202 70z"/>
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: url(#g1) } 
+	</style>
+	<g id="Header section">
+		<g id="back ground">
+			<g id="back">
+				<path id="Rectangle 131 copy" class="s0" d="m0 0h1600v561c0 0-152-251-412-251-324.7 0-318.2 412.6-597 426-133.3 6.4-284-35-389-35-123 0-202 70-202 70z"/>
+				<g clip-path="url(#cp1)">
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
